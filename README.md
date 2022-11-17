@@ -7,4 +7,4 @@ html JavaScript CSS with gasp animations
 
 
 Preview
-[./preview.png](./preview.png)
+![](./preview.png)
