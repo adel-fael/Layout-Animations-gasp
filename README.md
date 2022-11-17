@@ -7,4 +7,4 @@ html JavaScript CSS with gasp animations
 
 
 Preview
-![](./preview.png)
+![https://layout-animations-gsap-flip.netlify.app/#](./preview.png)
